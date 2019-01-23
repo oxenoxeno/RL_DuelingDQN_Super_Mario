@@ -1,14 +1,5 @@
 # coding=utf-8
 
-"""
-Policy Gradient, Reinforcement Learning.
-The cart pole example
-View more on my tutorial page: https://morvanzhou.github.io/tutorials/
-Using:
-Tensorflow: 1.0
-gym: 0.8.0
-"""
-
 import gym
 from RL_brain import PolicyGradient
 import matplotlib.pyplot as plt
