@@ -8,8 +8,8 @@ Getting the agent learn to play NES Super Mario Game itself.
 
 
 ## Screenshot
-<img alt="PicSciP Demo Video" src="https://raw.githubusercontent.com/oxenoxeno/RL_DuelingDQN_Super_Mario/master/screenshot.png" width="500" height="500" />
+<img alt="Demo Video" src="https://raw.githubusercontent.com/oxenoxeno/RL_DuelingDQN_Super_Mario/master/screenshot.png" width="500" height="500" />
 
 ## Demo Video
-Demo Video: ...
-Demo Video Download: https://github.com/oxenoxeno/RL_DuelingDQN_Super_Mario/blob/master/Level_1-1_pass.mp4?raw=true
+1. Demo Video: https://v.youku.com/v_show/id_XNDAyNzM5MzM2OA==.html?spm=a2h3j.8428770.3416059.1
+2. Demo Video Download: https://github.com/oxenoxeno/RL_DuelingDQN_Super_Mario/blob/master/Level_1-1_pass.mp4?raw=true ;
