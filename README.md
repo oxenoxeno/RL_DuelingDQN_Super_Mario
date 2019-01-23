@@ -7,5 +7,8 @@ Getting the agent learn to play NES Super Mario Game itself.
 3. The mario just go go go ...
 
 
+## Screenshot
+<img alt="PicSciP Demo Video" src="https://raw.githubusercontent.com/oxenoxeno/RL_DuelingDQN_Super_Mario/master/screenshot.png" width="500" height="500" />
+
 ## Demo Video
 Demo Video Download: https://raw.githubusercontent.com/oxenoxeno/RL_DuelingDQN_Super_Mario/master/超级玛丽通过Level-1.mp4
