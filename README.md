@@ -8,4 +8,4 @@ Getting the agent learn to play NES Super Mario Game itself.
 
 
 ## Demo Video
-[Download]: https://raw.githubusercontent.com/oxenoxeno/RL_DuelingDQN_Super_Mario/master/超级玛丽通过Level-1.mp4
+Demo Video Download: https://raw.githubusercontent.com/oxenoxeno/RL_DuelingDQN_Super_Mario/master/超级玛丽通过Level-1.mp4
